@@ -1,4 +1,6 @@
-Window Helper is a simple software that centers programs and resizes them from 480p, 720p, to 1080p with just a shortcut.
+[![GitHub All Releases](https://img.shields.io/github/downloads/afkarxyz/Window-Helper/total?style=for-the-badge)](https://github.com/afkarxyz/Window-Helper/releases)
+
+## Shortcuts
 
 - Win + C = Center Window 
 - Win + 1 = Resize Window 480p
