@@ -1,6 +1,6 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/afkarxyz/Window-Helper/total?style=for-the-badge)](https://github.com/afkarxyz/Window-Helper/releases)
 
-## Resize Window
+## Resize The Window
 
 - Win + 1 = 480p 1:1
 - Win + 2 = 480p 16:9
@@ -19,17 +19,17 @@
 
 ## Change Window Position
 
-- Win + C = Center
 - Win + ⬆️ = Top
 - Win + ⬇️ = Down
 - Win + ⬅️ = Left
 - Win + ➡️ = Right
+- Win + C = Center
   
 ## Preview
 
 ![adja6qt7CW](https://github.com/afkarxyz/Window-Helper/assets/173781715/e2869fda-e20a-47e1-a3c7-41ab431590af)
 
-## Change Window Position (Numpad)
+## Reposition The Window
 
 - Win + Numpad 7 = ↖️
 - Win + Numpad 8 = ⬆️
